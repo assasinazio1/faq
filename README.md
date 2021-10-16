@@ -1,6 +1,6 @@
 # info
-Нюхай Бэбру
-git clone ссылка
+РќСЋС…Р°Р№ Р‘СЌР±СЂСѓ
+git clone СЃСЃС‹Р»РєР°
 git add .
-git commit -m "..."<- что-то
+git commit -m "..."<- С‡С‚Рѕ-С‚Рѕ
 git push
