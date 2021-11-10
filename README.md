@@ -21,7 +21,20 @@ git commit -m "..."
 ```bash
 git push
 ```
-
+### Принять изменения в облаке:
+```bash
+git pull
+```
 # Ссылки на софт:
 ### Git:
 [git-scm.com/](https://git-scm.com/)
+### SublimeText 3
+[sublimetext.com](https:/www.sublimetext.com/)
+
+# Технологии:
+### БЭМ методология:
+[bem.info](https://ru.bem.info/methodology/)
+
+# Ресурсы:
+### Шрифты:
+[fonts.google](https:/fonts.google.com/)
