@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    transform: rotate(0deg);
+}
+
+.box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-reflect: below 5px linear-gradient(transparent,rgba(0, 0, 0, 0.932));
+    width: calc(100%+400px);
+}
+
+.Rectangle {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    background: rgb(87, 5, 104);
+    box-shadow: 0 0 5px rgba(87, 5, 104);
+    cursor: pointer;
+    transition: background-color ease-in-out .25s, box-shadow ease-in-out .25s;
+}
+
