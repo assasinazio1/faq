@@ -1,0 +1,14 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.Cube {
+    background: rgb(63, 224, 14);
+    width: 500px;
+    height: 380px;
+    margin: 200px ;
+}
