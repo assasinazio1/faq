@@ -39,3 +39,16 @@ function getResult_3 (text) {
     }
 
 console.log(getResult_3('Текст с числами 2 и 3 до 5.'), '==', 'Текст с числами ! и ! до !.')
+
+
+
+function getResult_4 (string) {
+    var s = 0
+    const s = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 32]
+
+    for (let i = 0; i < array.length; i++) {
+         s = s + array[i] 
+    }
+    
+    string[s + array[i]]
+}
